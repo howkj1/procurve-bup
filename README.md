@@ -14,7 +14,7 @@ Once you have a configuration file (see below):
 
     procurve-bup -o /path/to/save/backups
 
-If you have you config file in a non-standard location, you can use the `-c`
+If you have your config file in a non-standard location, you can use the `-c`
 flag to tell the script where to find it's configuration file. Standard config
 locations are (in order they are checked):
 
