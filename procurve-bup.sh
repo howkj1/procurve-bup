@@ -154,7 +154,7 @@ function main() {
         failed=1
       fi
 
-      # add a little sleep for slow switches that cna't keep up
+      # add a little sleep for slow switches that can't keep up
       sleep 5
     done
 
